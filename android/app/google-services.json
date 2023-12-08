@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "526967959777",
+    "project_id": "financial-goal-77955",
+    "storage_bucket": "financial-goal-77955.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526967959777:android:b4b2f0682c9897210f87a0",
+        "android_client_info": {
+          "package_name": "com.example.financial_goal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAepQw3BgiixUhqeA2JiXnaeCr5bQkaPW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
