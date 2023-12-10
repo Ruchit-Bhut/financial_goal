@@ -10,7 +10,7 @@ class FourthScreen extends StatefulWidget {
 class _FourthScreenState extends State<FourthScreen> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
+    return const Scaffold(
       body: Center(
         child: Text(
           'Fourth Page',
